@@ -1,0 +1,47 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 30px;
+}
+
+.pic1{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 25px;
+    color: black;
+}
+
+.pic2{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 25px;
+    color: black;
+}
+
+.pic3{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 25px;
+    color: black;
+}
+
+.pic4{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 25px;
+    color: black;
+}
+
+.pic5{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 25px;
+    color: black;
+}
